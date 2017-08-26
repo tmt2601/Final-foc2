@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/da/ProductDA.java=UTF-8
+encoding//src/da/WHConnection.java=UTF-8
+encoding//src/gui/AddBrand.java=UTF-8
+encoding//src/gui/AddCategory.java=UTF-8
+encoding//src/gui/AddUnitOfMeasure.java=UTF-8
+encoding//src/gui/ProductList.java=UTF-8
+encoding//src/gui/UpdateBrand.java=UTF-8
+encoding//src/gui/UpdateCategory.java=UTF-8
+encoding//src/gui/UpdateProduct.java=UTF-8
+encoding//src/gui/UpdateUnitOfMeasure.java=UTF-8
+encoding//src/gui/WarehouseList.java=UTF-8
